@@ -26,7 +26,7 @@
 - **Frontend:** React (Hooks, Context), Next.js (App Router, ISR/SSR), Zustand, RTK.
 - **Styling:** SCSS, Tailwind CSS, CSS Modules.
 - **Build Tools:** Vite, Gulp, Webpack.
-- **Backend & DevOps:** Node.js, NestJS (изучаю), Docker, CI/CD (GitHub Actions), REST, GraphQL.
+- **Backend & DevOps:** Node.js, NestJS, Docker, CI/CD (GitHub Actions), REST, GraphQL.
 - **Legacy:** Уверенный опыт работы с jQuery и нативным PHP.
 
 ---
@@ -34,7 +34,7 @@
 ### 📈 Чем я могу быть полезен:
 
 - **Производительность:** Вывожу проекты в «зеленую зону» PageSpeed (90+).
-- **Миграция:** Плавно и безопасно переведу ваш проект с jQuery/Legacy на современный React-стек.
+- **Миграция:** Плавно и безопасно переведу ваш Legacy-проект на современный React-стек.
 - **SEO:** Делаю фронтенд, который любят поисковики (техническое SEO, микроразметка).
 - **Architecture:** Проектирую чистый код по принципам SOLID и Feature-Sliced Design (FSD).
 
@@ -42,7 +42,7 @@
 
 ### 🌱 Сейчас я:
 
-- Углубляю знания в **NestJS** и архитектуре баз данных.
+- Углубляю знания в **NestJS** и архитектуре Backend NodeJS.
 - Активно учу **немецкий язык** (уровень B1).
 - Открыт для предложений в стабильных продуктовых IT-компаниях.
 
@@ -53,3 +53,6 @@
 - **Telegram:** [@phil4a](https://t.me/phil4a)
 - **Email:** [phil.dmitry@gmail.com](mailto:phil.dmitry@gmail.com)
 
+---
+
+![SITE](https://dphil.ru)
