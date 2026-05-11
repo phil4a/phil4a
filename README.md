@@ -52,8 +52,4 @@
 
 - **Telegram:** [@phil4a](https://t.me/phil4a)
 - **Email:** [phil.dmitry@gmail.com](mailto:phil.dmitry@gmail.com)
-- **LinkedIn:** _[Твоя ссылка, если есть]_
 
----
-
-![Дмитрий's GitHub stats](https://github-readme-stats.vercel.app/api?username=phil4a&show_icons=true&theme=tokyonight)
