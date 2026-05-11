@@ -55,4 +55,3 @@
 
 ---
 
-![SITE](https://dphil.ru)
