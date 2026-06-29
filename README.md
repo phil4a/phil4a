@@ -1,21 +1,21 @@
-# Привет! Я Дмитрий 👋
+# Hi! I’m Dmitry👋
 
-### Frontend / Fullstack Developer с 9-летним опытом
+## Frontend / Fullstack Developer with 9 years of experience.
 
-Я специализируюсь на создании высокопроизводительных веб-приложений на **React** и **Next.js**. Мой путь в в качестве разработчика начался в 2017 году, и за это время я прошел путь от разработки сайтов «под ключ» до проектирования сложных корпоративных систем и оптимизации высоконагруженных фронтендов.
-
----
-
-### 🚀 Кратко обо мне:
-
-- **Опыт:** 9+ лет коммерческой разработки (фриланс, проектная работа, работа с продуктовыми решениями).
-- **Специализация:** Архитектура фронтенда, переход с Legacy на современный стек, глубокая SEO-оптимизация и Core Web Vitals.
-- **Подход:** Уточняю требования, предлагаю решение и довожу до результата. Пишу поддерживаемый код, думаю про UX, производительность и метрики. Самостоятелен в решениях задач любой сложности.
-- **Локация:** Новосибирск 🇷🇺 | Готов к релокации и удаленной работе по всему миру.
+I specialize in building high-performance web applications using **React** and **Next.js**. My developer journey began in 2017; since then, I’ve evolved from building turnkey websites to architecting complex enterprise systems and optimizing high-load frontend applications.
 
 ---
 
-### 🛠 Мой стек технологий:
+### 🚀 A bit about me
+
+- **Experience:** 9+ years of commercial development (freelance, project-based work, and product development).
+- **Specialization:** Frontend architecture, migrating from legacy systems to modern stacks, in-depth SEO optimization, and Core Web Vitals.
+- **Approach to problem-solving:** I clarify requirements, propose solutions, and drive them to completion. I write maintainable code, prioritizing UX, performance, and business metrics. I am highly autonomous in solving complex tasks.
+- **Location:** Novosibirsk, Russia 🇷🇺 | Open to remote work and worldwide relocation.
+
+---
+
+### Tech Stack:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -27,45 +27,45 @@
 - **Styling:** SCSS, Tailwind CSS, CSS Modules.
 - **Build Tools:** Vite, Gulp, Webpack.
 - **Backend & DevOps:** Node.js, NestJS, Docker, CI/CD (GitHub Actions), REST, GraphQL.
-- **Legacy:** Уверенный опыт работы с jQuery и нативным PHP.
+- **Legacy:** Solid experience with jQuery and native PHP.
 
 ---
 
-### 📈 Чем я могу быть полезен:
+### 📈 How I Can Help
 
-- **Производительность:** Вывожу проекты в «зеленую зону» PageSpeed (90+).
-- **Миграция:** Плавно и безопасно переведу ваш Legacy-проект на современный стек. Подхожу к миграции как к продуктовой задаче, а не как к полному переписыванию кода
-- **SEO:** Делаю фронтенд, который любят поисковики (техническое SEO, микроразметка).
-- **Architecture:** Проектирую чистый код по принципам SOLID и Feature-Sliced Design (FSD).
-
----
-
-### 📂 Избранные проекты:
-
-- **[pkksib.ru](https://pkksib.ru)** — коммерческий веб-ресурс промышленной компании. Выполнил полную миграцию и архитектурную переработку проекта с устаревшего стека на современную связку **Next.js + Strapi (Headless CMS)**. Провел глубокую техническую SEO-оптимизацию, существенно увеличив скорость загрузки страниц и показатели Core Web Vitals.
-  - **Стек:** Next.js (SSR), Strapi CMS, Tailwind CSS, REST API.
-- **[crone-group.ru](https://crone-group.ru)** — корпоративный сайт архитектурно-строительной группы. Реализовал адаптивную высокопроизводительную верстку, интерактивные презентации объектов и кастомные UI-компоненты для демонстрации масштабных инженерных проектов.
-  - **Стек:** Next.js (SSR), Wordpress(Headless), Tailwind CSS, GraphQL.
-- **[bitcar.rent](https://bitcar.rent)** — международная платформа для аренды автомобилей. Разработал и запустил сервис под ключ: спроектировал и реализовал архитектуру клиентской части, сквозную систему фильтрации автопарка, динамическую локализацию и логику мультивалютности в реальном времени. В процессе переноса на NextJS + NestJS
-  - **Стек:** JavaScript (ES6+), SCSS (BEM), Gulp, Wordpress.
-- **[aeromir.su](https://aeromir.su)** — корпоративный сайт инжиниринговой компании. Спроектировал и реализовал фронтенд-часть проекта с нуля. Разработал интерактивную структуру каталога. Занимался поддержкой, рефакторингом и развитием фронтенд-части сайта, оптимизацией интерактивных элементов. Сейчас в процессе переноса на Nuxt(Vue) + Strapi CMS
-  - **Стек:** JavaScript (ES6+), SCSS (BEM), Gulp, Wordpress.
-- **[afloor.pro](https://afloor.pro)** — специализированный интернет-каталог и интерьерный салон. Разработал удобную структуру каталога, логику фильтрации товаров по множественным характеристикам.
-  - **Стек:** JavaScript (ES6+), SCSS (BEM), Gulp, Wordpress.
-- **[ambienceburo.ru](https://ambienceburo.ru)** — премиальный портфолио-сайт для архитектурного бюро и студий дизайна интерьера. Фокус был сделан на Pixel Perfect вёрстке, интеграции плавных анимаций.
-  - **Стек:** JavaScript, CSS3 Animations, HTML5, SCSS(BEM), Wordpress.
+- **Performance:** Achieving 90+ "green" scores in Google PageSpeed Insights / Lighthouse.
+- **Migration:** Smoothly and safely migrating legacy projects to modern stacks. I approach migration as a product task, not just a blind rewrite.
+- **SEO:** uilding search-engine-friendly frontends (technical SEO, structured data/microdata).
+- **Architecture:** Designing clean code following SOLID principles and Feature-Sliced Design (FSD).
 
 ---
 
-### 🌱 Сейчас я:
+### 📂 Selected Projects
 
-- Углубляю знания в **NestJS** и архитектуре Backend NodeJS, Angular, Vue (Nuxt).
-- Активно учу **немецкий язык** (уровень B1).
-- Открыт для предложений в стабильных продуктовых IT-компаниях.
+- **[pkksib.ru](https://pkksib.ru)** — Commercial portal for an industrial company. Executed a full migration and architectural overhaul from a legacy stack to a modern **Next.js + Strapi** (Headless CMS) architecture. Performed deep technical SEO optimization, significantly improving page load speed and Core Web Vitals.
+  - **Stack:** Next.js (SSR), Strapi CMS, Tailwind CSS, REST API.
+- **[crone-group.ru](https://crone-group.ru)** — Corporate website for an architectural and construction group. Implemented adaptive, high-performance UI, interactive property presentations, and custom components to showcase large-scale engineering projects.
+  - **Stack:** Next.js (SSR), Wordpress(Headless), Tailwind CSS, GraphQL.
+- **[bitcar.rent](https://bitcar.rent)** — International car rental platform. Developed and launched the service from scratch: designed the client-side architecture, an end-to-end fleet filtering system, dynamic localization, and real-time multi-currency logic. (Currently being migrated to Next.js + NestJS).
+  - **Stack:** JavaScript (ES6+), SCSS (BEM), Gulp, Wordpress.
+- **[aeromir.su](https://aeromir.su)** — Corporate website for an engineering company. Architected and developed the frontend from scratch, including an interactive catalog structure. Provided ongoing support, refactoring, and UI optimization. (Currently being migrated to Nuxt/Vue + Strapi CMS).
+  - **Stack:** JavaScript (ES6+), SCSS (BEM), Gulp, Wordpress.
+- **[afloor.pro](https://afloor.pro)** — Specialized e-commerce catalog and interior design showroom. Developed a user-friendly catalog structure and multi-parameter product filtering logic.
+  - **Stack:** JavaScript (ES6+), SCSS (BEM), Gulp, Wordpress.
+- **[ambienceburo.ru](https://ambienceburo.ru)** — Premium portfolio website for an architectural and interior design studio. Focused on Pixel-Perfect layouts and smooth animation integration.
+  - **Stack:** JavaScript, CSS3 Animations, HTML5, SCSS(BEM), Wordpress.
 
 ---
 
-### 📫 Как со мной связаться:
+### 🌱 Currently I am
+
+- Deepening my knowledge of **NestJS** and Node.js backend architecture, as well as **Angular** and **Vue (Nuxt)**.
+- Actively learning German (B1 level).
+- Open to opportunities in stable IT product companies.
+
+---
+
+### 📫 How to reach me
 
 - **Telegram:** [@phil4a](https://t.me/phil4a)
 - **Email:** [phil.dmitry@gmail.com](mailto:phil.dmitry@gmail.com)
